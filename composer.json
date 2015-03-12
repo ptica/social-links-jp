@@ -1,0 +1,11 @@
+{
+    "name": "ptica/social-links-jp",
+    "description": "wp settings plugin",
+    "authors": [
+        {
+            "name": "Jan Ptacek",
+            "email": "jan.ptacek@gmail.com"
+        }
+    ],
+    "require": {}
+}
